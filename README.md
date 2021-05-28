@@ -2,9 +2,9 @@
 
 ## About
 
-This is my web scraping repo.
-
 I made my first web scraping script to pull the names and emails of all Canadian members of parliament. I wanted these emails so I could contact them about the causes I care about.
+
+If you're trying to email all MPs, you can [copy this list](out/ready-to-email-list.txt) and paste it directly into your email receipients list. Consider using BCC instead of To or CC. 
 
 ## Instructions
 
